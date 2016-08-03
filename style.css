@@ -16,6 +16,7 @@ Copyright 2016 Caleb McDonnell
   position: absolute;
   width: auto;
   float: left;
+  background-color: #ccc;
 }
 
 #calculator button {
