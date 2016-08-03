@@ -1,5 +1,5 @@
 # js-calculator v0.1
-Add a javascript calculator to any input field
+Add a *javascript calculator* to any &lt;input&gt; field
 
 How to use:
 ---------
@@ -22,7 +22,7 @@ Missing Features / Known Bugs / Roadmap / etc
  - Calculator looks ugly
  - No tests
  - Only works with fields that have numbers. If any letters or other characters are in the field, then they may have unexpected consequences.
- - 
+ 
  
 
 ----------
